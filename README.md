@@ -6,9 +6,9 @@ This project demonstrates a patient bedside monitoring system on AWS Iot Core us
 1. Setup your AWS account. 
 2. Setup the AWS IoT Core Things as shown in the pictures below 
 
-![AWS IoT Core Things](..\M02-01-Project-HealthCare-IoT-Cloud\images\things.png)
+![AWS IoT Core Things](./images/things.png)
 
-![Thing Types](..\M02-01-Project-HealthCare-IoT-Cloud\images\thingtypes.png)
+![Thing Types](./images/thingtypes.png)
 
 <!-- ![Thing Groups](..\M02-01-Project-HealthCare-IoT-Cloud\images\thinggroups.png)
 
@@ -16,7 +16,7 @@ This project demonstrates a patient bedside monitoring system on AWS Iot Core us
 
 3. Create DynamoDB Tables as shown below 
 
-![Tables](..\M02-01-Project-HealthCare-IoT-Cloud\images\dynamotables.png)
+![Tables](./images/dynamotables.png)
 
 4. Install the following libraries 
 ```
