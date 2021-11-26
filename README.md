@@ -1,6 +1,6 @@
 # AWS Bed Side Monitoring System Simulation 
 
-This project demonstrates a patient bedside monitoring system on AWS Iot Core using generated sensor data. 
+This project demonstrates a patient bedside monitoring system on AWS Iot Core using generated sensor data. This project was done as a part of coursework for the Advanced Certification in Software Engineering by Great Learning and IIT-Madras.
 
 ## Get Started 
 1. Setup your AWS account. 
