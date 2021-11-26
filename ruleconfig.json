@@ -1,0 +1,23 @@
+{
+    "rules" : [
+        {
+            "datatype": "HeartRate", 
+            "min": 55, 
+            "max": 105, 
+            "trigger_count": 1
+        },
+        {
+            "datatype":"Temperature",
+            "min" : 96,
+            "max" : 103, 
+            "trigger_count" : 1
+        },
+        {
+            "datatype":"SPO2",
+            "min" : 96,
+            "max" : 100, 
+            "trigger_count" : 1
+        }
+        ]
+
+}
